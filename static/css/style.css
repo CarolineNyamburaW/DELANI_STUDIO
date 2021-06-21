@@ -47,3 +47,25 @@ body {
   color: #000;
   font-size: 16.5px;
 }
+
+/*=============services section==================== */
+#services {
+  background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg");
+  background-color: #fff; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  height: 328px;
+}
+
+#services .col-md-12 h1 {
+  margin-top: 6%;
+  text-align: center;
+  color: #fff;
+}
+
+#services .col-md-12 p {
+  text-align: center;
+  color: #fff;
+  font-size: 16.5px;
+}
