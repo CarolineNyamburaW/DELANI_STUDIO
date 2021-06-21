@@ -16,3 +16,10 @@ $(document).ready(function() {
     $("#development-hidden").toggle();
   });
 });
+
+$(document).ready(function() {
+  $(".clickable3").click(function() {
+    $("#product-showing").toggle();
+    $("#product-hidden").toggle();
+  });
+});
